@@ -17,7 +17,7 @@ To address this, I wrote this script, which enabled me to transfer my NFTs back 
 
 1. Install dependencies with `npm install`.
 2. Change hexString, WalletClass, nftAddress, myAddress
-3. Run the script with `node index.js`.
+3. Run the script with `node transfer.js`.
 
 The script will log the sequence number and the result of the transfer operation.
 
